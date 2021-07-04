@@ -12,7 +12,7 @@
 <section id="projectView">  
     <div class="container">
         <h3>Zuper Construction</h3>
-        <p>The LVS is a student management system for handling students and grading them</p>
+        <p>This was a website for Zuper Construction, a construction company based in curaçao.</p>
         <div class="image"></div>
         <ProjectsNav prev='/project1' next='/project1' />
     </div>
