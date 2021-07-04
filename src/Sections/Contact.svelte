@@ -19,7 +19,7 @@
         message: yup.string().required()
       }),
       onSubmit: values => {
-        //db.collection('contacts').add(values)
+        db.collection('contacts').add(values)
         document.querySelector('#name').value = ""
         document.querySelector('#email').value = ""
         document.querySelector('#message').value = ""
