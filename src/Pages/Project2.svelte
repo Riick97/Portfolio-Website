@@ -16,7 +16,7 @@
         <div class="image"></div>
         <ProjectsNav prev='/project1' next='/project1' />
     </div>
-</section>
+</section> 
 
 <style>
     h3{

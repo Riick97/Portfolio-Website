@@ -1,4 +1,4 @@
-<script>
+ <script>
     import Linkbar from '../Components/Linkbar.svelte'
     import * as animateScroll from "svelte-scrollto";
     import page from 'page'
